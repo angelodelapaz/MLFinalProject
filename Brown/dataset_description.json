@@ -1,0 +1,12 @@
+{
+  "Name": "ADHD200 - Brown",
+  "BIDSVersion": "1.4.2",
+  "Authors": [
+    "Daniel P. Dickstein"
+  ],
+  "Acknowledgements": "We greatly appreciate the time and effort of all participants and their families, without which there would be no study. We also truly appreciate funds from Bradley Hospital and NIMH. Lastly, we thank the staff of the Bradley Hospital's PediMIND program and Brown's MRI Facility for a great team effort",
+  "Funding": [
+    "NIMH K22/NIH recovery act supplement (3K22MH074945-02S1)",
+    "Bradley Hospital"
+  ]
+}
